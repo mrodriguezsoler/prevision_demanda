@@ -1,0 +1,17 @@
+# Entornos
+env/
+venv/
+.venv/
+
+# Conda
+*.conda
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
